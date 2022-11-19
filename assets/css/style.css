@@ -1,0 +1,220 @@
+.signin{
+    width:100px;
+}
+
+.header {
+    background-image: url(../img/home-backgroundimg.jpg) ;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-blend-mode: darken;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-bottom: 8px solid #222;
+}
+
+.header-content h1{
+    font-size: 4rem;
+}
+.header-content h3{
+    font-size: 1.25rem;
+    margin-bottom: 40px;
+}
+.email{
+    height: 4rem;
+    width: 70%;
+    border: none;
+}
+.gstart{
+    height: 4rem;
+    width: 30%;
+    border-radius:0px;
+    border: none;
+}
+
+.enjoy{
+    border-bottom: 8px solid #222;
+    height: 500px
+}
+
+.en-img img{
+    width: 600px;
+    position: relative;
+    z-index: 2;
+}
+.enjoy h1{
+    font-size: 3.25rem;
+}
+
+.enjoy .vid{
+    width: 435px;
+    height: 340px;
+    position: absolute;
+    top:405px;
+    right:143px;
+    z-index:1;
+}
+
+.dl{
+    border-bottom: 8px solid #222;
+    height: 500px;
+}
+.dl-img{
+    position:relative;
+    z-index: 0;
+}
+.mobile{
+    width: 500px; 
+}
+
+.strg{ 
+    background-color: black;
+    border: solid 0.5px ;
+    border-radius:10px;
+    position:absolute;
+    z-index: 1;
+    width: 350px;
+    height: 100px;
+    top: 250px;
+    padding: 10px;
+    right: 100px;
+    
+}
+.strg img{
+    height: 70px;
+    width: 55px;
+}
+.text {
+    line-height: 5px;
+}
+.text p{
+    font-size: 13px;
+}
+.dl h1{
+    font-size: 3.25rem;
+}
+.every{
+    border-bottom: 8px solid #222;
+    height: 500px;
+}
+.every-img img{
+    width: 600px;
+    position: relative;
+    z-index: 2;
+}
+.every h1{
+    font-size:3.25rem;
+}
+
+.every .vid{
+    width: 370px;
+    height: 355px;
+    position: absolute;
+    top:875px;
+    right:165px;
+    z-index:1;
+}
+.create{
+    border-bottom: 8px solid #222;
+    height: 500px;
+}
+.create h1{
+    font-size: 3.25rem;
+}
+.question{
+    border-bottom: 8px solid #222;
+    height: 1050px;
+}
+.question h1{
+    font-size: 3.25rem;
+}
+.accordion-flush{
+    background-color: #222;
+    color: #222;
+}
+.accordion-item{
+    background-color: #222;
+    color: #222;
+}
+.accordion-header{
+    background-color: #222;
+    color: #222;
+}
+.accordion-button{
+    background-color: #222;
+    color: aliceblue;
+    
+}
+.accordion-body{
+    background-color: #222;
+    color: aliceblue;
+}
+
+.pageFooter {
+    
+    background-color : #000;
+    padding : 60px 0px
+
+}
+
+.pageFooter h2{
+    padding-left: 120px;
+    color:#737373
+}
+.pageFooter .footerContent {
+
+    display : flex;
+    justify-content : space-around;
+
+}
+
+.pageFooter  ul {
+    
+    list-style: none ;
+
+}
+
+.pageFooter .footerContent li {
+
+    line-height: 35px;
+
+}
+
+.pageFooter .footerContent li:hover {
+
+    text-decoration : underline
+
+}
+
+.pageFooter .footerContent a {
+    
+    text-decoration: none;
+    color : #737373;
+    font-size: 0.9rem;
+}
+
+.pageFooter p {
+
+    color : #737373;
+    font-size: 1rem;
+    text-align: center;
+}
+.overlay{
+    background-color: #000000BF;
+    width: 30%;
+    padding:90px 68px;
+}
+.sign .form-control,.sign .btn{
+    background-color: #333;
+    height: 50px;
+    border: none;
+}
+.check{
+    font-size: 14px;
+    color: #b3b3b3b3;
+}
+.signup{
+    color: #b3b3b3b3;
+}
+.signup p{
+    font-size: 14px;
+    line-height: 15px;
+}
