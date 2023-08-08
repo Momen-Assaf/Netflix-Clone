@@ -1,5 +1,3 @@
 # Netflix-Clone
-Bootstrap Project
-Front end 
-momenassaf20@gmail.com
- 
+A fully connected Netflix Front-End implementation 
+
